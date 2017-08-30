@@ -24,3 +24,20 @@ NOOBS的安裝
 
 ***
 
+RASPBIAN的安裝
+
+從[官網](https://www.raspberrypi.org/downloads/raspbian/)下載ZIP並將其解壓縮
+
+![RASPBIAN_下載](img/04.png)
+
+使用Win32 Disk Imager將img寫入SD卡
+
+![IMG燒錄](img/05.png)
+
+因為螢幕沒有HDMI接頭，使用轉接頭時設定檔需修改
+
+[config.txt](file/config.txt)
+
+把SD卡放入樹莓派後開機即可進入桌面
+
+![rasp開機](img/06.jpg)
