@@ -34,7 +34,7 @@
 
 編輯sites-enabled/000-default-ssl.conf
 
-`sudo nano /etc/apache2/sites-enabled/000-default-ssl.conf';`
+`sudo nano /etc/apache2/sites-enabled/000-default-ssl.conf`
 
 ![ssl.conf](img/06.png)
 
