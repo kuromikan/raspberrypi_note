@@ -15,3 +15,4 @@ raspbian 4.9
 |[02_locale](02_locale/)                     |中文環境及輸入法設定                         |
 |[03_webserver](03_webserver/)               |架設網頁伺服器及資料庫                       |
 |[04_https](04_https/)                       |如何建立憑證及在網頁伺服器上載入             |
+|[05_python](05_python/)                     |python的基礎程式                             |
